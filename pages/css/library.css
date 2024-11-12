@@ -86,6 +86,17 @@ h1 {
   margin-bottom: 2rem;
 }
 
+/* Remove the default link styles inside the library section */
+.category a {
+  text-decoration: none;  /* Remove underline */
+  color: inherit;         /* Inherit color from parent (list item or section) */
+}
+
+/* Optional: style the links if you want to apply custom colors */
+.category a:hover {
+  color: #0056b3;  /* Change color on hover, for example */
+}
+
 .category h2 {
   font-size: 1.5rem;
   color: #333;

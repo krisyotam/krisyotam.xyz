@@ -1,0 +1,334 @@
+[
+    {
+      "category": "A: General Works",
+      "books": [
+        {
+          "title": "Encyclopedia Britannica",
+          "author": "Various Authors",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Oxford Companion to Philosophy",
+          "author": "Ted Honderich",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Princeton Encyclopedia of Poetry and Poetics",
+          "author": "Roland Greene",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "B: Philosophy, Psychology, Religion",
+      "books": [
+        {
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Republic",
+          "author": "Plato",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Tao Te Ching",
+          "author": "Lao Tzu",
+          "link": "http://example.com"
+        },
+        {
+          "title": "Principia Ethica",
+          "author": "G.E. Moore",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Varieties of Religious Experience",
+          "author": "William James",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "C: Auxiliary Sciences of History",
+      "books": [
+        {
+          "title": "Introduction to Archival Science",
+          "author": "Various Authors",
+          "link": "http://example.com"
+        },
+        {
+          "title": "History of Ancient Egypt",
+          "author": "Toby Wilkinson",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "D: World History and History of Europe, Asia, Africa, Australia, Pacific Islands, etc.",
+      "books": [
+        {
+          "title": "A History of the World in 12 Maps",
+          "author": "Jerry Brotton",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Silk Roads",
+          "author": "Peter Frankopan",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "E: History of the Americas",
+      "books": [
+        {
+          "title": "The History of the United States",
+          "author": "Various Authors",
+          "link": "http://example.com"
+        },
+        {
+          "title": "A People's History of the United States",
+          "author": "Howard Zinn",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Founding Brothers",
+          "author": "Joseph Ellis",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "F: Local History of the Americas",
+      "books": [
+        {
+          "title": "The Streets of New York",
+          "author": "Various Authors",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "G: Geography, Anthropology, Recreation",
+      "books": [
+        {
+          "title": "National Geographic Atlas of the World",
+          "author": "National Geographic",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Human Condition",
+          "author": "Hannah Arendt",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "H: Social Sciences",
+      "books": [
+        {
+          "title": "The Social Contract",
+          "author": "Jean-Jacques Rousseau",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Protestant Ethic and the Spirit of Capitalism",
+          "author": "Max Weber",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Wealth of Nations",
+          "author": "Adam Smith",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "J: Political Science",
+      "books": [
+        {
+          "title": "The Origins of Political Order",
+          "author": "Francis Fukuyama",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Federalist Papers",
+          "author": "Alexander Hamilton, James Madison, and John Jay",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "K: Law",
+      "books": [
+        {
+          "title": "The Common Law",
+          "author": "Oliver Wendell Holmes",
+          "link": "http://example.com"
+        },
+        {
+          "title": "Constitutional Law",
+          "author": "Erwin Chemerinsky",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "L: Education",
+      "books": [
+        {
+          "title": "Pedagogy of the Oppressed",
+          "author": "Paulo Freire",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Courage to Teach",
+          "author": "Parker J. Palmer",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "M: Music",
+      "books": [
+        {
+          "title": "The Rest Is Noise: Listening to the Twentieth Century",
+          "author": "Alex Ross",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Oxford History of Western Music",
+          "author": "Richard Taruskin",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "N: Fine Arts",
+      "books": [
+        {
+          "title": "Ways of Seeing",
+          "author": "John Berger",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Story of Art",
+          "author": "E.H. Gombrich",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "P: Language and Literature",
+      "books": [
+        {
+          "title": "The Elements of Style",
+          "author": "William Strunk Jr. and E.B. White",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Oxford English Dictionary",
+          "author": "Various Authors",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "Q: Science",
+      "books": [
+        {
+          "title": "The Origin of Species",
+          "author": "Charles Darwin",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Selfish Gene",
+          "author": "Richard Dawkins",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "R: Medicine",
+      "books": [
+        {
+          "title": "The Emperor of All Maladies",
+          "author": "Siddhartha Mukherjee",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Body",
+          "author": "Bill Bryson",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "S: Agriculture",
+      "books": [
+        {
+          "title": "The Omnivore's Dilemma",
+          "author": "Michael Pollan",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "T: Technology",
+      "books": [
+        {
+          "title": "The Innovators",
+          "author": "Walter Isaacson",
+          "link": "http://example.com"
+        },
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "U: Military Science",
+      "books": [
+        {
+          "title": "The Art of War",
+          "author": "Sun Tzu",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Influence of Sea Power upon History",
+          "author": "Alfred Thayer Mahan",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "V: Naval Science",
+      "books": [
+        {
+          "title": "The Influence of Sea Power upon History",
+          "author": "Alfred Thayer Mahan",
+          "link": "http://example.com"
+        }
+      ]
+    },
+    {
+      "category": "Z: Bibliography, Library Science, Information Resources",
+      "books": [
+        {
+          "title": "The Oxford Companion to the Book",
+          "author": "Various Authors",
+          "link": "http://example.com"
+        },
+        {
+          "title": "The Information: A History, a Theory, a Flood",
+          "author": "James Gleick",
+          "link": "http://example.com"
+        }
+      ]
+    }
+  ]
+  
+  
