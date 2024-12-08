@@ -123,6 +123,37 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
   border-top: 1px solid #ddd;
-  font-family: 'Source Sans Pro', sans-serif; /* Optional footer font */
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
+/* Footer Links */
+footer a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+footer a:hover {
+  color: #555;
+}
+
+/* Cryptocurrency Addresses */
+footer code {
+  display: block;
+  margin: 0.5rem 0;
+  font-family: 'Source Sans Pro', monospace;
+  background-color: #eee;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+footer img {
+  width: 30px;  /* Adjust to desired size */
+  height: 30px;
+  object-fit: contain;
+  transition: opacity 0.3s ease;
+}
+
+footer img:hover {
+  opacity: 0.8;
+}

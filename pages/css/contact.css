@@ -45,13 +45,14 @@ nav ul li a {
   font-weight: 500;
   font-size: 1rem;
   transition: color 0.3s ease, transform 0.2s ease;
-  font-family: 'Poppins', sans-serif; /* Optionally use a distinct font for nav */
+  font-family: 'Poppins', sans-serif;
 }
 
 nav ul li a:hover {
   color: #222;
   transform: translateY(-2px);
 }
+
 
 /* Main Content */
 main {
@@ -140,12 +141,34 @@ footer {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+/* Footer Links */
 footer a {
   color: #333;
   text-decoration: none;
+  font-weight: 600;
 }
 
 footer a:hover {
   color: #555;
 }
 
+/* Cryptocurrency Addresses */
+footer code {
+  display: block;
+  margin: 0.5rem 0;
+  font-family: 'Source Sans Pro', monospace;
+  background-color: #eee;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+footer img {
+  width: 30px;  /* Adjust to desired size */
+  height: 30px;
+  object-fit: contain;
+  transition: opacity 0.3s ease;
+}
+
+footer img:hover {
+  opacity: 0.8;
+}

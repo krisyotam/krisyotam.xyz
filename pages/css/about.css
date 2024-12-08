@@ -16,7 +16,7 @@
 }
 
 html, body {
-  font-family: 'Inter', 'Helvetica Neue', sans-serif; /* Choose your primary font here */
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
   font-size: 16px;
   color: #333;
   background-color: #f5f5f5;
@@ -24,6 +24,7 @@ html, body {
   overflow-x: hidden;
 }
 
+/* Navbar */
 /* Navbar */
 nav {
   background-color: #fff;
@@ -48,7 +49,7 @@ nav ul li a {
   font-weight: 500;
   font-size: 1rem;
   transition: color 0.3s ease, transform 0.2s ease;
-  font-family: 'Poppins', sans-serif; /* Optionally use a distinct font for nav */
+  font-family: 'Poppins', sans-serif;
 }
 
 nav ul li a:hover {
@@ -56,9 +57,10 @@ nav ul li a:hover {
   transform: translateY(-2px);
 }
 
+
 /* Main Content */
 main {
-  max-width: 750px;
+  max-width: 850px;
   margin: 2rem auto;
   padding: 2rem;
   background-color: #fff;
@@ -71,14 +73,25 @@ main:hover {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Title */
-h1 {
-  font-size: 2.2rem;
+/* Headings */
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
   color: #333;
-  margin-bottom: 1.5rem;
-  text-align: center;
   letter-spacing: 1px;
-  font-family: 'Roboto', sans-serif; /* Optional font for headings */
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #444;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
 }
 
 /* Content Text */
@@ -86,6 +99,17 @@ p {
   color: #555;
   margin-bottom: 1.2rem;
   line-height: 1.8;
+}
+
+ul {
+  list-style: disc inside;
+  color: #555;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.8rem;
 }
 
 /* Footer */
@@ -96,5 +120,37 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
   border-top: 1px solid #ddd;
-  font-family: 'Source Sans Pro', sans-serif; /* Optional footer font */
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Footer Links */
+footer a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+footer a:hover {
+  color: #555;
+}
+
+/* Cryptocurrency Addresses */
+footer code {
+  display: block;
+  margin: 0.5rem 0;
+  font-family: 'Source Sans Pro', monospace;
+  background-color: #eee;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+footer img {
+  width: 30px;  /* Adjust to desired size */
+  height: 30px;
+  object-fit: contain;
+  transition: opacity 0.3s ease;
+}
+
+footer img:hover {
+  opacity: 0.8;
 }

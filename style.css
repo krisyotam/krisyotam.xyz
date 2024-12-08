@@ -178,6 +178,16 @@ footer code {
   padding: 0.5rem;
   border-radius: 5px;
 }
+footer img {
+  width: 30px;  /* Adjust to desired size */
+  height: 30px;
+  object-fit: contain;
+  transition: opacity 0.3s ease;
+}
+
+footer img:hover {
+  opacity: 0.8;
+}
 
 
 
